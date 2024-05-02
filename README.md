@@ -16,8 +16,8 @@ Link of a time-lapse documentary:
 I plan to utilize pointillism to achieve the technical aspect of the first part. In the example, the size of the dots can be controlled by the mouse position, forming an image composed of random dots with colors from the original image. Since in the first part, I observed that the emergence of fruits from branches is a process of growth from small to large, I plan to **only make the circular shapes appear along the trajectory of the branches in the artwork**. With this code, when the mouse is on the left side of the screen, the circular "*apples*" on the branches will be smaller, and as the mouse moves to the right side, the "*apples*" will enlarge to depict the process of fruits growing from small to large, as inspired.
 
 Screenshots of the inspirations:
-* ![example of pointillism](reademeImages\code.png)
-* ![example of pointillism](reademeImages\code2.png)
+* ![example of pointillism](reademeImages/code.png)
+* ![example of pointillism](reademeImages/code2.png)
 
 Link to the Pointillism code:
 [Pointillism example code](https://p5js.org/zh-Hans/examples/image-pointillism.html)
