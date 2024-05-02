@@ -17,7 +17,7 @@ I plan to utilize pointillism to achieve the technical aspect of the first part.
 
 Screenshots of the inspirations:
 * ![example of pointillism](reademeImages\code.png)
-* ![example of pointillism](reademeImages\code2.png)
+![example of pointillism](reademeImages\code2.png)
 
 Link to the Pointillism code:
 [Pointillism example code](https://p5js.org/zh-Hans/examples/image-pointillism.html)
